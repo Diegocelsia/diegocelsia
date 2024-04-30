@@ -1,7 +1,7 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c757d&size=35&center=true&vCenter=true&width=1000&lines=¡Hi!+👋;I+am+Diego+😎;I'm+from+Colombia!;¡Welcome!)
 
 
- # Desarollado Web Front-End and Backend student
+ # Desarollado Web Full Stak
 
 I am a Junior Front-End Developer with solid experience in HTML, CSS, JavaScript, and React. My focus is on creating intuitive and appealing interfaces to provide an excellent user experience. Passionate about continuous learning and ready to tackle challenges in dynamic teams.
 
