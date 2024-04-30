@@ -3,7 +3,7 @@
 
  # Desarollado Web Full Stak
 
-I am a Junior Front-End Developer with solid experience in HTML, CSS, JavaScript, and React. My focus is on creating intuitive and appealing interfaces to provide an excellent user experience. Passionate about continuous learning and ready to tackle challenges in dynamic teams.
+I am a Junior Front-End Developer with solid experience in HTML, CSS, JavaScript and React. Apart from that, lately I have been very attracted to the Backend, especially with Node.js. My focus is on creating intuitive and attractive interfaces to provide an excellent user experience. Passionate about continuous learning and willing to face challenges in dynamic teams.
 
 
 
